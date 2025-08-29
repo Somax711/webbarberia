@@ -1,14 +1,11 @@
-¡Entendido\! Aquí tienes el `README.md` completo para tu proyecto `webbarberia`, con las secciones bien definidas y el formato de código correcto para que se vea profesional en GitHub.
 
------
-
-# `webbarberia` 💈
+# `webbarberia` 
 
 `webbarberia` es un sitio web diseñado para una barbería, permitiendo a los clientes conocer los servicios, ver la ubicación y contactar fácilmente para reservar una cita. La web presenta una interfaz moderna y un diseño minimalista, enfocándose en la experiencia de usuario.
 
 -----
 
-### Características ✨
+### Características 
 
   * **Página de Inicio:** Una presentación atractiva de la barbería.
   * **Servicios:** Información detallada de los cortes, afeitados y otros servicios ofrecidos.
@@ -18,14 +15,14 @@
 
 -----
 
-### Tecnologías Utilizadas 🛠️
+### Tecnologías Utilizadas 
 
   * **HTML:** Para la estructura y el contenido de la página web.
   * **CSS:** Para el diseño, estilo y la presentación visual.
 
 -----
 
-### Instalación y Uso 💻
+### Instalación y Uso 
 
 Este es un proyecto estático de front-end, por lo que no requiere de una instalación compleja. Simplemente clona el repositorio y abre el archivo `index.html` en tu navegador web.
 
