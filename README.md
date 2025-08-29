@@ -53,7 +53,3 @@ Este es un proyecto estático de front-end, por lo que no requiere de una instal
 ### Licencia 📄
 
 Este proyecto está bajo la Licencia MIT.
-
------
-
-Este `README` te ayudará a presentar tu proyecto de manera muy clara y profesional. Si necesitas ayuda con otro, solo avísame.
